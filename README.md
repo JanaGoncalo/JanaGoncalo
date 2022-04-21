@@ -1,4 +1,4 @@
-# Olá eu sou a Janaína, estudante de Programação.
+# Olá! Eu sou a Janaína Gonçalo, estudante de Programação.
 
 <div align="center">
   <a href="https://github.com/JanaGoncalo">
