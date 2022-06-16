@@ -1,9 +1,11 @@
 <div align="center">
-  <img width="100%" height="100%" src="perfil.gif"/></div>
+  <img width="100%" height="100%" src="perfil.gif"/>
+  <div align="center"><img height="180em" src="fotoperfil.jpg"/></div>
   <a href="https://github.com/JanaGoncalo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JanaGoncalo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanaGoncalo&layout=compact&langs_count=7&theme=radical"/>
- <img height="160em" src="fotoperfil.jpg"/>
+  </div>
+ 
   <div style="display: inline_block"><br>
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
