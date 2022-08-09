@@ -1,3 +1,9 @@
+<div align="right"> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=25&pause=1000&color=6D06A7&width=435&lines=We+are+made+of+stardust+)](https://git.io/typing-svg)
+
+</div>
+
 <div align="center"><img height="180em" src="fotoperfil.jpg"/></div>
 <div align="center">
   <a href="https://github.com/JanaGoncalo">
