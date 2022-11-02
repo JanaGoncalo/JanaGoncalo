@@ -1,9 +1,3 @@
-<div align="right"> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=25&pause=1000&color=6D06A7&width=435&lines=We+are+made+of+stardust+)](https://git.io/typing-svg)
-
-</div>
-
 <div align="center">
   <a href="https://github.com/JanaGoncalo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JanaGoncalo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
