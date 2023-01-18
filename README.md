@@ -1,4 +1,4 @@
-## Hi, I'm Jana Gonçalo 👋
+## Hi, I'm Janaína Gonçalo 👋
 
 <div align="center">
   <a href="https://github.com/JanaGoncalo">
