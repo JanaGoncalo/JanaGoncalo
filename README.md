@@ -12,26 +12,26 @@
   
 ## Hard Skills
 
-  ![JavaScript](https://img.shields.io/badge/javascript-purple.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-purple?style=for-the-badge&logo=typescript&logoColor=black)
-  ![CSS3](https://img.shields.io/badge/css-purple.svg?style=for-the-badge&logo=css3&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/html-purple.svg?style=for-the-badge&logo=html5&logoColor=black)
-  ![Java](https://img.shields.io/badge/java-purple.svg?style=for-the-badge&logo=java&logoColor=black)
-  ![Angular](https://img.shields.io/badge/angular-purple.svg?style=for-the-badge&logo=angular&logoColor=black)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=black)
-  ![Spring](https://img.shields.io/badge/Spring-purple?style=for-the-badge&logo=spring&logoColor=black)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-purple?style=for-the-badge&logo=spring-black)
-  ![Git](https://img.shields.io/badge/GIT-purple?style=for-the-badge&logo=git&logoColor=black)
-  ![Figma](https://img.shields.io/badge/figma-purple.svg?style=for-the-badge&logo=figma&logoColor=black)
-  ![Salesforce](https://img.shields.io/badge/salesforce-purple.svg?&style=for-the-badge&logo=salesforce&logoColor=black)
+  ![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=purple)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=purple)
+  ![CSS3](https://img.shields.io/badge/css-black.svg?style=for-the-badge&logo=css3&logoColor=purple)
+  ![HTML5](https://img.shields.io/badge/html-black.svg?style=for-the-badge&logo=html5&logoColor=purple)
+  ![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=purple)
+  ![Angular](https://img.shields.io/badge/angular-black.svg?style=for-the-badge&logo=angular&logoColor=purple)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=purple)
+  ![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=purple)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=spring-purple)
+  ![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=purple)
+  ![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=purple)
+  ![Salesforce](https://img.shields.io/badge/salesforce-black.svg?&style=for-the-badge&logo=salesforce&logoColor=purple)
 
 ## Learning
-  ![MySQL](https://img.shields.io/badge/mysql-purple.svg?style=for-the-badge&logo=mysql&logoColor=black)
-  ![React](https://img.shields.io/badge/React-purple?style=for-the-badge&logo=react&logoColor=black)
+  ![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=purple)
+  ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=purple)
   
 ## Connect with me
   <div>
-    <a href="https://www.linkedin.com/in/janagoncalo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/janagoncalo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=purple" target="_blank"></a>
 
     
  
