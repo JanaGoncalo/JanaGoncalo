@@ -18,11 +18,7 @@
   ![HTML5](https://img.shields.io/badge/html-black.svg?style=for-the-badge&logo=html5&logoColor=purple)
   ![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=purple)
   ![Angular](https://img.shields.io/badge/angular-black.svg?style=for-the-badge&logo=angular&logoColor=purple)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=purple)
-  ![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=purple)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=spring-purple)
   ![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=purple)
-  ![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=purple)
   ![Salesforce](https://img.shields.io/badge/salesforce-black.svg?&style=for-the-badge&logo=salesforce&logoColor=purple)
 
 ## Learning
