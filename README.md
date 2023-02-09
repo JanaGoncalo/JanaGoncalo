@@ -19,7 +19,6 @@
   ![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=purple)
   ![Angular](https://img.shields.io/badge/angular-black.svg?style=for-the-badge&logo=angular&logoColor=purple)
   ![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=purple)
-  ![Salesforce](https://img.shields.io/badge/salesforce-black.svg?&style=for-the-badge&logo=salesforce&logoColor=purple)
 
 ## Learning
   ![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=purple)
